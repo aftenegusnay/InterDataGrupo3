@@ -1,0 +1,36 @@
+.contendor-targetas{
+    display: block;
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+.lista-items{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    overflow-x:scroll ;
+}
+.targetas{
+    max-width: 300px;
+    min-width: 300px;
+    height: 95%;
+    margin-right: 35px;
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    box-shadow: 20px 10px #127369;
+    border-radius: 5px;
+    text-align: center;
+}
+.targetas img{
+    width: 227px;
+    height: 250px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.targetas p{    
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0;
+}

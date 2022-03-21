@@ -1,0 +1,47 @@
+main{
+    margin-top: 85px;
+    height: 100%;
+    z-index: -1;
+}
+.cuerpo{
+    width: 70%;
+    margin: auto;
+    background: #fff;
+    box-shadow: 20px 10px #127369;
+  
+}
+.titulo{
+    text-align: center;
+    margin: 0;
+    padding-top: 20px;
+}
+.cuerpo h1{
+    width: 80%;
+    width: 80%;
+    margin-left: 50px;
+    
+}
+.cuerpo p{
+    width: 60%;
+    margin: 0;
+    margin-left: 100px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.contenido{
+    margin: 5px;
+}
+.caja{
+    display: table-cell;
+}
+.contenedor-info3{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    justify-content: space-around;
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    box-shadow: -20px 10px #F80000;
+    border-radius: 5px;
+}
